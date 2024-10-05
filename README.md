@@ -11,3 +11,6 @@ Includes images and titles of the top movies.
 A fun birthday invite with event details.
 Includes an image of a birthday cake and what to bring.
 A Google Maps link to the event location.
+
+### License
+This project is open source and available under the MIT License.
