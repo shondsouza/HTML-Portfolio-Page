@@ -13,4 +13,4 @@ Includes an image of a birthday cake and what to bring.
 A Google Maps link to the event location.
 
 ### License
-This project is open source and available under the MIT License.
+(https://choosealicense.com/licenses/mit/)
